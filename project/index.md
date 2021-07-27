@@ -1,31 +1,30 @@
 ---
 date: 2021-06-16
-title: # Project: This is the Descriptive Title of the Example
-linkTitle: Example
+title: # Project: Detection of Acne
+linkTitle: Pimples: Why Do They Happen?
 tags: ["project", "reu"]
 description: "Here comes the abstract"
-author: Firstanme, Lastname
+author: Carrington, Kee
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
 ---
 
 
-Fix the links: and than remove this line
 
 [![Check Report](https://github.com/cybertraining-dsc/hid-example/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/hid-example/actions)
 [![Status](https://github.com/cybertraining-dsc/hid-example/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/hid-example/actions)
 Status: draft, Type: Project
 
-Fix the links: and than remove this line
 
-Gregor von Laszewski, [hid-example](https://github.com/cybertraining-dsc/hid-example/), [Edit](https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md)
+
+Carrington Kee, [hid-example](https://github.com/cybertraining-dsc/hid-example/), [Edit](https://github.com/cybertraining-dsc/hid-example/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
 ## Abstract
 
-Here comes a short abstract of the project that summarizes what it is about
+Acne is a skin condition that occurs when hair follicles is in combination with oil and dead skin cells. Acne is a chronic inflammatory disease of the pilosebaceous unit. While it is most common in teenagers and young adults, people of all races get acne. As acne appears during teenage years it is more common in males. Additionally, it can cause several types of pimples. Procedures such as laser treatments, medications, and light therapy are the most common htreatment used to reduce acne. The main objective of the different treatments of acne is to prevent pimples from preventing new pimples from forming and help to prevent scarring.
 
 Contents
 
